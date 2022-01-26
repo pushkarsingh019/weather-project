@@ -1,0 +1,21 @@
+/* Main Css File */
+body {
+    text-align: center;
+}
+#cityInput {
+    margin-bottom: 2rem;
+}
+label {
+    font-size: small;
+}
+.button {
+    background-color: blue; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 16px;
+  }
